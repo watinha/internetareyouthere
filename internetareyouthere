@@ -22,6 +22,6 @@ case "$1" in
         done
     ;;
     stop)
-        killall internetareyouthere.sh
+        killall internetareyouthere
     ;;
 esac
